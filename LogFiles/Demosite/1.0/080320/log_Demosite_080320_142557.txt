@@ -1,0 +1,12 @@
+2020-08-03 14:25:57,467 INFO  [CreateLogger] Suite STARTED 
+2020-08-03 14:26:12,493 INFO  [CreateLogger] Created Driver Instance and Launched Browser: Chrome 
+2020-08-03 14:26:31,687 INFO  [CreateLogger] Opened the application with URL -https://www.goibibo.com/ 
+2020-08-03 14:26:31,920 INFO  [CreateLogger] Selected one way Trip 
+2020-08-03 14:26:44,343 INFO  [CreateLogger] Entered destination Source as - Hyderabad 
+2020-08-03 14:26:53,697 INFO  [CreateLogger] Entered destination details as - Bengaluru 
+2020-08-03 14:26:57,037 INFO  [CreateLogger] Selected Departure Date 
+2020-08-03 14:27:03,914 INFO  [CreateLogger] Entered Passenger Details 
+2020-08-03 14:27:04,299 INFO  [CreateLogger]  
+2020-08-03 14:27:14,128 INFO  [CreateLogger] Lowest Ticket Price -3134 
+2020-08-03 14:27:14,453 INFO  [CreateLogger] Clicked on the book option with low Ticket Price 
+2020-08-03 14:27:23,714 INFO  [CreateLogger] Ticket Details -Hyderabad - Bengaluru Thursday, 06 Aug 2020 
